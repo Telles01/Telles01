@@ -1,4 +1,18 @@
 ### Hi there 👋
+Bernard Telles born in Brazil. Graduated in Information Sistem and Business. I love foreign-languages and sharing my knowledge, always intested in new ideas and future tecnologies as well as their applications.
+
+#######🌎"Great developers never stop learning" 💡
+
+- 📍 Born in Belo Horizonte
+- 💻 Software Developer
+
+
+
+
+
+
+
+
 
 <!--
 **Telles01/Telles01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
