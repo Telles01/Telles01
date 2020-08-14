@@ -1,5 +1,5 @@
 ### Hi there 👋
-Bernard Telles born in Brazil. Graduated in Information Sistem and Business. I love foreign-languages and sharing my knowledge, always intested in new ideas and future tecnologies as well as their applications.
+Bernard Telles born in Brazil. Graduated in Information Sistem and Business. I love foreign-languages and sharing my knowledge, always interested in new ideas and future technologies as well as their applications.
 
 #######🌎"Great developers never stop learning" 💡
 
