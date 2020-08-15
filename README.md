@@ -10,10 +10,10 @@ Bernard Telles born in Brazil. Graduated in Information Sistem and Business. I l
 #Find me elsewhere 🌍
 
 🚀**site**
-🐤**Twitter**
+🐤[Twitter] (https://twitter.com/bernard_telles7)
 📷 [Instagram](https://twitter.com/bernard_telles7)
-💼**Linkedn**
-💻 **Xing**
+💼 [Linkedn](https://www.linkedin.com/in/bernard-teles-5ab57690/)
+💻 [Xing] (https://www.xing.com/profile/Bernard_Teles/cv)
 
 
 
