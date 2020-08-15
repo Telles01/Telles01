@@ -13,11 +13,11 @@ I'm Bernard Telles and I born in Brazil.🌳
 
 #Find me elsewhere 🌍
 
-- 📩[site](https://twitter.com/bernard_telles7)
-- 🐤[Twitter](https://twitter.com/bernard_telles7)
-- 📷 [Instagram](https://twitter.com/bernard_telles7)
-- 💼 [Linkedn](https://www.linkedin.com/in/bernard-teles-5ab57690/)
-- 💻 [Xing](https://www.xing.com/profile/Bernard_Teles/cv)
+  📩[site](https://twitter.com/bernard_telles7)
+  🐤[Twitter](https://twitter.com/bernard_telles7)
+  📷 [Instagram](https://twitter.com/bernard_telles7)
+  💼 [Linkedn](https://www.linkedin.com/in/bernard-teles-5ab57690/)
+  💻 [Xing](https://www.xing.com/profile/Bernard_Teles/cv)
 
 
 
