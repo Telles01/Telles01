@@ -1,6 +1,6 @@
 ### Hey guys 👋
 I'm Bernard Telles and I born in Brazil.🌳
-Graduated in Information Sistem and Business.📈💻
+- Graduated in Information Sistem and Business.📈💻
 
 #"I love foreign-languages and sharing my knowledge, always interested in new ideas and future technologies as well as their applications."
 
