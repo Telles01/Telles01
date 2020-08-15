@@ -7,8 +7,13 @@ Bernard Telles born in Brazil. Graduated in Information Sistem and Business. I l
 - 💻 Software Developer
 
 
+#Find me elsewhere 🌍
 
-
+🚀[site]
+🐤[Twitter]https://twitter.com/bernard_telles7
+📷Instagram
+💼Linkedn
+💻 Xing
 
 
 
