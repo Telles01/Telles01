@@ -1,9 +1,10 @@
 ### Hey guys 👋
-Bernard Telles born in Brazil.🌳
-Graduated in Information Sistem and Business.
+I'm Bernard Telles and I born in Brazil.🌳
+Graduated in Information Sistem and Business.📈💻
 I love foreign-languages and sharing my knowledge, always interested in new ideas and future technologies as well as their applications.
 
 #######🧠"Great developers never stop learning" 💡
+
 
 - 📍 Born in Belo Horizonte
 - 💻 Software Developer
@@ -11,7 +12,7 @@ I love foreign-languages and sharing my knowledge, always interested in new idea
 
 #Find me elsewhere 🌍
 
-- 🚀[site](https://twitter.com/bernard_telles7)
+- 📩[site](https://twitter.com/bernard_telles7)
 - 🐤[Twitter](https://twitter.com/bernard_telles7)
 - 📷 [Instagram](https://twitter.com/bernard_telles7)
 - 💼 [Linkedn](https://www.linkedin.com/in/bernard-teles-5ab57690/)
