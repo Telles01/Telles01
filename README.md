@@ -9,11 +9,11 @@ Bernard Telles born in Brazil. Graduated in Information Sistem and Business. I l
 
 #Find me elsewhere 🌍
 
-🚀[site]
-🐤[Twitter]https://twitter.com/bernard_telles7
-📷Instagram
-💼Linkedn
-💻 Xing
+🚀**site**
+🐤**Twitter**
+📷 [Instagram](https://twitter.com/bernard_telles7)
+💼**Linkedn**
+💻 **Xing**
 
 
 
