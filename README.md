@@ -13,7 +13,7 @@ I love foreign-languages and sharing my knowledge, always interested in new idea
 - 📢 Sharing a little of my journey at [Bernard Telles](https://www.instagram.com/) 
 
 
-**Find me elsewhere** 🌍
+**Find me anywhere** 🌍
 
  [![Slack](https://img.shields.io/badge/-Slack-ff0048?style=flat-square&labelColor=ff0048&logo=slack&logoColor=white&link=https://app.slack.com/client/T02NE0241/browse-files/user_profile/UCZNA0USG)](https://app.slack.com/client/T02NE0241/browse-files/user_profile/UCZNA0USG) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernard-teles-5ab57690/)](https://www.linkedin.com/in/bernard-teles-5ab57690/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-brown?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/) [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=[https://www.facebook.com/bernard.sevlac.9](https://www.facebook.com/bernard.sevlac.9))](https://www.facebook.com/bernard.sevlac.9) [![Xing](https://img.shields.io/badge/-Xing-green?style=flat-square&logo=Xing&logoColor=white&link=[https://www.xing.com/profile/Bernard_Teles/cv](https://www.xing.com/profile/Bernard_Teles/cv))](https://www.xing.com/profile/Bernard_Teles/cv) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=[https://twitter.com/BernardTelles07](https://twitter.com/BernardTelles07))](https://twitter.com/BernardTelles07)
  
