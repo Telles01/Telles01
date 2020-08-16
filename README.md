@@ -10,7 +10,7 @@ I love foreign-languages and sharing my knowledge, always interested in new idea
 
 - 📍 From RJ living in Belo Horizonte
 - 💻 Developer at [Biomtech](https://biomtech.com.br/)
-- 🌈 Sharing a little of my Front-End journey at [Bernard Telles](https://www.instagram.com/papodedev/) 
+- 📢 Sharing a little of my journey at [Bernard Telles](https://www.instagram.com/) 
 
 
 **Find me elsewhere** 🌍
