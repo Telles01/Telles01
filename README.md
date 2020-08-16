@@ -1,8 +1,8 @@
 ### Hey guys 👋
 
-My name is Bernard Telles🏼😎‍🇧🇷
+My name is Bernard Telles🏼😎
 
-I'm a Software Engineer, that has been working as a developer since 2018.  💻
+I'm a Software Engineer, that has been working as a developer since 2018. 💻
 
 I love foreign-languages and sharing my knowledge, always interested in new ideas and future technologies as well as their applications.
 
@@ -10,7 +10,7 @@ I love foreign-languages and sharing my knowledge, always interested in new idea
 
 - 📍 From RJ living in Belo Horizonte
 - 💻 Developer at [Biomtech](https://biomtech.com.br/)
-- 🌈 Sharing a little of my Front-End journey at [Papo de Dev](https://www.instagram.com/papodedev/) 
+- 🌈 Sharing a little of my Front-End journey at [Bernard Telles](https://www.instagram.com/papodedev/) 
 
 
 **Find me elsewhere** 🌍
