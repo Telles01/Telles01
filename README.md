@@ -2,7 +2,7 @@
 
 My name is Bernard Telles 😎🎮
 
-I'm a Software Engineer, that has been working as a developer since 2018. 💻
+<!--I'm a Software Engineer, that has been working as a developer since 2018. 💻-->
 
 I love foreign-languages and sharing my knowledge, always interested in new ideas and future technologies as well as their applications.
 
