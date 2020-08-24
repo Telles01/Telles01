@@ -2,6 +2,9 @@
 
 My name is Bernard Telles 😎🎮
 
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+
 <!--I'm a Software Engineer, that has been working as a developer since 2018. 💻-->
 
 I love foreign-languages and sharing my knowledge, always interested in new ideas and future technologies as well as their applications.
@@ -12,6 +15,9 @@ I love foreign-languages and sharing my knowledge, always interested in new idea
 - 💻 Developer at [Biomtech](https://biomtech.com.br/)
 - 📢 Sharing a little of my journey at [Bernard Telles](https://www.instagram.com/) 
 
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
 
 **Find me anywhere** 🌍
 
@@ -19,7 +25,7 @@ I love foreign-languages and sharing my knowledge, always interested in new idea
  [![Indeed](https://img.shields.io/badge/-Indeed-1548f0?style=flat-square&logo=Indeed&logoColor=white&link=[https://my.indeed.com/p/bernardt-eefgxtv](https://my.indeed.com/p/bernardt-eefgxtv))](https://my.indeed.com/p/bernardt-eefgxtv)
  
  
- 
+
 
 
 
