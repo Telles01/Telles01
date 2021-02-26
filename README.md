@@ -1,9 +1,8 @@
 ### Hey guys 👋
 
-My name is Bernard Telles 😎🎮
+My name is Bernard Teles 😎🎮
 
-[![Website](https://img.shields.io/website?label=bernardtelles.com&style=for-the-badge&url=https%3A%2F%2Fbernardtelles.com)](https://bernardtelles.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/bernardtelles?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/bernardtelles01)  
+
 
 <!--I'm a Software Engineer, that has been working as a developer since 2018. 💻-->
 
@@ -11,12 +10,12 @@ I love foreign-languages and sharing my knowledge, always interested in new idea
 
 **🧠"Great developers never stop learning" 💡**
 
-- 📍 From RJ living in Belo Horizonte
-- 💻 Developer at [Biomtech](https://biomtech.com.br/)
-- 📢 Sharing a little of my journey at [Bernard Telles](https://www.instagram.com/) 
+- 📍 From BRAZIL
+- 💻 Developer 
+- 📢 Sharing a little of my journey at [Bernard Teles](https://www.instagram.com/) 
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+//[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)//
 
 
 ### Find me anywhere 🌍
@@ -32,9 +31,7 @@ I love foreign-languages and sharing my knowledge, always interested in new idea
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
+
 <img align="left" alt="Csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
