@@ -1,6 +1,4 @@
-<! --### Hey guys 👋 -->
 
-<! --My name is Bernard Teles 😎🎮-->
 
 
 
@@ -8,7 +6,6 @@
 
 <!--I love foreign-languages and sharing my knowledge, always interested in new ideas and future technologies as well as their applications. -->
 
-<! --**🧠"Great developers never stop learning" 💡** -->
 
 
 
