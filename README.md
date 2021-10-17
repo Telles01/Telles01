@@ -1,6 +1,6 @@
-### Hey guys 👋
+<! --### Hey guys 👋 -->
 
-My name is Bernard Teles 😎🎮
+<! --My name is Bernard Teles 😎🎮-->
 
 
 
@@ -8,11 +8,9 @@ My name is Bernard Teles 😎🎮
 
 <!--I love foreign-languages and sharing my knowledge, always interested in new ideas and future technologies as well as their applications. -->
 
-**🧠"Great developers never stop learning" 💡**
+<! --**🧠"Great developers never stop learning" 💡** -->
 
-- 📍 From BRAZIL
-- 💻 Developer 
-- 📢 Sharing a little of my journey here.
+
 
 <!--### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
