@@ -13,6 +13,10 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 </div>
+  <br/>
+  <a href="https://github.com/Telles01/github-readme-activity-graph"><img alt="BT" src="https://activity-graph.herokuapp.com/graph?username=Telles01&bg_color=dark&color=5BCDEC&line=2ea043&point=2ea043&hide_border=true" /></a>
+  <br/>
+   
  
  ##
  <div>
