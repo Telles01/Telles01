@@ -1,4 +1,4 @@
-## Hello I'm BT.
+## Hi!
 
 <div align="center">
   <a href="https://github.com/Telles01">
