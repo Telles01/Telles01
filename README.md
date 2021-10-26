@@ -14,7 +14,7 @@
   
 </div>
   <br/>
-  <a href="https://github.com/Telles01/github-readme-activity-graph"><img alt="BT" src="https://activity-graph.herokuapp.com/graph?username=Telles01&bg_color=dark&color=5BCDEC&line=2ea043&point=2ea043&hide_border=true" /></a>
+  <a href="https://github.com/Telles01/github-readme-activity-graph"><img alt="BT" src="https://activity-graph.herokuapp.com/graph?username=Telles01&bg_color=dark&color=bdc5cd&line=2ea043&point=2ea043&hide_border=true" /></a>
   <br/>
    
  
