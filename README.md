@@ -7,7 +7,7 @@
 </div> -->
   
   <p align="center">
-    <a href="https://github.com/narayanbavisetti/github-readme-streak-stats">
+    <a href="https://github.com/Telles01/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=Telles01&theme=black-ice&hide_border=true&stroke=0000&background=0d1117"/>  
     </a>
 </p>
