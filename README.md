@@ -20,6 +20,8 @@
   <br/>
     <a href="https://github.com/Telles01/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api?username=Telles01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Telles01/github-readme-stats"><img alt="Narayan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Telles01&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Telles01&bg_color=0d1117&color=737373&line=006d32&point=00a33c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
