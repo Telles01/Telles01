@@ -1,10 +1,10 @@
 
 
-<h1 align="center">
+<!--<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bernard+Telles!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Brazil </h3>
+<h3 align="center">A passionate software developer from Brazil </h3> -->
 <!--<div align="center">
   <a href="https://github.com/Telles01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Telles01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
