@@ -33,9 +33,8 @@
   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
    
   
-</div>
-  <br/>
-  <a href="https://github.com/Telles01/github-readme-activity-graph"><img alt="Bernard's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Telles01&bg_color=dark&color=bdc5cd&line=2ea043&point=2ea043&hide_border=true" /></a>
+
+<!--  <a href="https://github.com/Telles01/github-readme-activity-graph"><img alt="Bernard's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Telles01&bg_color=dark&color=bdc5cd&line=2ea043&point=2ea043&hide_border=true" /></a> -->
   
   <!--<a href="https://github.com/narayanbavisetti/github-readme-activity-graph"><img alt="Narayan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=narayanbavisetti&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
