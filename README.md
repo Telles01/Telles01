@@ -22,11 +22,6 @@
   <a href="https://github.com/Telles01/github-readme-stats"><img alt="Narayan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Telles01&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Telles01&bg_color=0d1117&color=737373&line=006d32&point=00a33c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
   
  <!--
  <div style="display: inline_block"><br>
@@ -43,27 +38,9 @@
   <a href="https://github.com/Telles01/github-readme-activity-graph"><img alt="Bernard's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Telles01&bg_color=dark&color=bdc5cd&line=2ea043&point=2ea043&hide_border=true" /></a>
   
   <!--<a href="https://github.com/narayanbavisetti/github-readme-activity-graph"><img alt="Narayan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=narayanbavisetti&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
-  <br/>
-   
- 
- ##
- <div>
-   
+
    <!--![Snake animation](https://github.com/Telles01/Telles01/blob/output/github-contribution-grid-snake.svg) -->
   
-  
-  
- </div>
-
-
-
-<!--I'm a Software Engineer, that has been working as a developer since 2018. 💻-->
-
-<!--I love foreign-languages and sharing my knowledge, always interested in new ideas and future technologies as well as their applications. -->
-
-
-
-
 <!--### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
 
@@ -91,9 +68,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 
 END_SECTION:activity-->
-<br />
-<br />
-
 
 <!--<details>
   <summary>:zap: Github Stats</summary>
@@ -105,6 +79,7 @@ END_SECTION:activity-->
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Telles01)
 </div>
+    
 <!--<details>
 &nbsp;<div align="center">
   [Fork](https://github.com/novatorem/Telles01/blob/main/SetUp.md) this [unlicensed](https://choosealicense.com/licenses/unlicense/) repository to recreate!<br><br>
