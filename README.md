@@ -39,7 +39,7 @@
 </div>
 
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Telles01&bg_color=0d1117&color=737373&line=006d32&point=00a33c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Telles01&bg_color=0d1117&color=737373&line=006d32&point=00a33c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   
 
