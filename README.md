@@ -31,7 +31,7 @@
   
 
  <div align="center">
-  <a href="https://github.com/Telles01/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/0-profile-details.svg"></a>
+  <a href="https://github.com/Telles01/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/Telles01/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/0-profile-details.svg"></a>
   <a href="https://github.com/Telles01/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/1-repos-per-language.svg"></a>
   <a href="https://github.com/Telles01/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/2-most-commit-language.svg"></a>
   <a href="https://github.com/Telles01/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/3-stats.svg"></a>
