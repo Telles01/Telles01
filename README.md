@@ -96,8 +96,10 @@ END_SECTION:activity-->
 
 </details>
 -->
+
+
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Telles01)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12152697082&unique={true|1|on|yes})
 </div>
     
 <!--<details>
